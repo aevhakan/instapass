@@ -5,7 +5,7 @@
 
 import random
 import time
-pass_generator = 'abcdefghijklmnopqrstuvwxyz12345678910*)$($+$838282(2+$;$!$))'
+pass_generator = 'abcdefghijklmnopqrstuvwxyz12345678910#%&*)$($+$838282(2+$;$!$))'
 
 number = input("Sayi Adeti: ")
 number = int(number)
